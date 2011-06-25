@@ -1,0 +1,5 @@
+*~
+*.tar.gz
+*swp
+*pyc
+*egg-info
